@@ -1,0 +1,219 @@
+
+
+@keyframes spanani {
+
+
+    0% {
+        width: 380px;
+        content: "LarryDaniels";
+    }
+
+    8% {
+        width: 380px;
+        content: "LarryDaniels";
+    }
+
+    15% {
+        width: 0px;
+        content: "LarryDaniels";
+    }
+
+    16% {
+        width: 0px;
+        content: "Developer";
+    }
+
+    24% {
+        width: 311px;
+        content: "Developer";
+    }
+
+    39% {
+        width: 311px;
+        content: "Developer";
+
+    }
+
+    46% {
+
+        width: 0px;
+        content: "Developer";
+
+
+    }
+
+    47% {
+
+        width: 0px;
+        content: "Designer";
+
+
+    }
+
+    57% {
+
+        width: 277px;
+        content: "Designer";
+
+
+    }
+
+    72% {
+
+        width: 277px;
+        content: "Designer";
+
+
+    }
+
+    83% {
+
+        width: 0px;
+        content: "Designer";
+
+
+    }
+
+    84% {
+
+        width: 0px;
+        content: "LarryDaniels";
+
+
+    }
+
+
+    93% {
+
+        width: 380px;
+        content: "LarryDaniels";
+
+
+
+    }
+
+
+    100% {
+
+        width: 380px;
+        content: "LarryDaniels";
+
+
+
+    }
+
+
+} 
+
+
+@media screen and (max-width:768px) {
+
+
+
+    @keyframes spanani {
+
+
+        0% {
+            width: 254px;
+            content: "LarryDaniels";
+        }
+    
+        8% {
+            width: 254px;
+            content: "LarryDaniels";
+        }
+    
+        15% {
+            width: 0px;
+            content: "LarryDaniels";
+        }
+    
+        16% {
+            width: 0px;
+            content: "Developer";
+        }
+    
+        24% {
+            width: 214px;
+            content: "Developer";
+        }
+    
+        39% {
+            width: 214px;
+            content: "Developer";
+    
+        }
+    
+        46% {
+    
+            width: 0px;
+            content: "Developer";
+    
+    
+        }
+    
+        47% {
+    
+            width: 0px;
+            content: "Designer";
+    
+    
+        }
+    
+        57% {
+    
+            width: 188px;
+            content: "Designer";
+    
+    
+        }
+    
+        72% {
+    
+            width: 188px;
+            content: "Designer";
+    
+    
+        }
+    
+        83% {
+    
+            width: 0px;
+            content: "Designer";
+    
+    
+        }
+    
+        84% {
+    
+            width: 0px;
+            content: "LarryDaniels";
+    
+    
+        }
+    
+    
+        93% {
+    
+            width: 254px;
+            content: "LarryDaniels";
+    
+    
+    
+        }
+    
+    
+        100% {
+    
+            width: 254px;
+            content: "LarryDaniels";
+    
+    
+    
+        }
+    }
+
+
+
+}
+
